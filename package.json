@@ -1,0 +1,10 @@
+{
+  "homepage": "https://apaez698.github.io/laboratorio-1-sitio-web-personal-apaez698",
+  "scripts": {
+    "predeploy":"echo Predeloy....",
+    "deploy": "gh-pages -d src"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
